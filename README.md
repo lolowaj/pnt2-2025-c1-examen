@@ -1,5 +1,8 @@
 # PROGRAMACION DE NUEVAS TECNOLOGIAS 2
 
+-------------------------------
+Profe, arranca con la página de inicioApp. No llegué a terminar el examen ya que me trabé con algunas cosas, pero intenté hacer lo más que pudr, gracias y saludos.
+
 ## Instrucciones de resolución de examen
 
 Es tu primer día en [tecnoshare.com](http://tecnoshare.com) luego de un intenso entrenamiento de 10 semanas por fin tenes la oportunidad de mostrar lo que aprendiste, y tu potencial como desarrollador react.
